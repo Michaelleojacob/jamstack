@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Michaelleojacob/jamstack/issues"
   },
-  "homepage": "https://github.com/Michaelleojacob/jamstack#readme"
+  "homepage": "https://github.com/Michaelleojacob/jamstack#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
